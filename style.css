@@ -45,3 +45,20 @@ input {
 	width: 503px;
 	height: 34px;
 }
+
+.container {
+	padding-top: 30px;
+	text-align: center;
+} 
+
+.buttons {
+	display: inline-block;
+	margin: auto;
+	background-color: #f2f2f2;
+	color: #757575;
+	border-radius: 2px;
+	font-family: arial, sans-serif;
+	font-weight: bold;
+	font-size: 13px;
+	padding:16px;
+}
